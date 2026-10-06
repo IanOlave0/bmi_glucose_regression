@@ -3,3 +3,9 @@
 env/
 venv/
 ENV/
+bmi_glucose_regression_env/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
